@@ -1,0 +1,6 @@
+{
+  "name": "Real Drive — 3D Open World & Racing",
+  "description": "An interactive 3D open-world driving and circuit racing game with car physics, chase camera, mobile touch hold-buttons, speedometer, minimap, and procedural Web Audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
